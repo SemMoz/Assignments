@@ -4,3 +4,4 @@
 [Assingment 1 R](https://github.com/SemMoz/Assingments/blob/master/Graded_assignment1%20(1).ipynb)
 [Assingment 2 R](https://github.com/SemMoz/Assingments/blob/master/Graded_assignment_2%20(2).ipynb)
 [Final Assingment Python](https://github.com/SemMoz/Assingments/blob/master/exam_june_7_2018%20(1).ipynb)
+[Final Assingment R](https://github.com/SemMoz/Assingments/blob/master/Exam_student%20(1)%20(1).ipynb)
